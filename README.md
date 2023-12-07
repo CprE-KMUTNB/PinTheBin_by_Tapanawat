@@ -63,6 +63,32 @@ Create a new account by pressing “Create an account here”.
 After verifying your identity for Successful completion will bring you to the home page. and the web browser will request the location.
 current location of the device, press “Allow” or “Allow” to continue.
 After pressing “Allow” the map will be centered to the desired location. Location of the device
-
-
-
+### 4. Sidebar Menu
+in the top left corner of the screen. This will open the side menu bar, which will be the menu page.
+“Report” “About” for navigating to other pages and a “Log out” button when not in use
+### 5. app report
+Selecting “Report” in the side menu bar will take you to On the general report page, on this page there will be
+Characteristics similar to “Trash Report” where users can enter report topics, reporting categories, and
+Reporting content To be beneficial to the development of the system in the future
+### 6. Searchbar Menu
+It is the part used to search for trash cans. This will display a list of trash cans with names and descriptions similar to
+What do you want to search for? And you can press on that contact to go to the trash can address.
+### 7. Add Bin
+On the home page, you will be taken to the page for adding a new trash can. Adding a trash can will
+Can be added only if the existing location does not already have a trash can. which the user must fill in Name of place or name of tank
+Trash Description Location Picture Trash Type
+“Location” is automatically based on the current location of the device.
+Displayed as “0,0” means there is no cannot locate or access the location, which the user can press to search
+the location of the equipment again.
+### 8. Bin Detail
+When you press the map pin on the home page. This will view information about the trash cans at that location.
+The information displayed will include: Location, description, type of trash can, which will be divided into 4 types as follows:
+Dangerous trash Recycling trash cans, general trash cans, and wet trash cans and the date and time the information was changed
+Last time, including the person who edited the information ann you can eidt for report about that bin in there.
+### 9. Edit Bin
+in the trash can information Will bring you to this page. This will edit the trash information.
+In the beginning The system will receive the original information and display it in a message box. for editing In which case the user does not
+Upload pictures The original image will not be deleted until “Choose File” to upload a new image. in this page you can delete bin and has text to confirm to delete.
+### 10. Report Bin
+Press in the trash can information. Will bring you to this page. This will report a problem with the tank.
+This garbage which The work will be similar to “General report”
